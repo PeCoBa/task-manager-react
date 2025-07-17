@@ -11,7 +11,7 @@ A task management application built with React, allowing users to create, edit, 
 **Technologies**: React, JavaScript, Tailwind CSS, Vite, localStorage
 
 **Setup**:
-1. Clone the repo: `git clone https://github.com/[your-username]/task-manager-react.git`
+1. Clone the repo: `git clone https://github.com/PeCoBa/task-manager-react.git`
 2. Install dependencies: `npm install`
 3. Run locally: `npm run dev`
 
